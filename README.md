@@ -39,5 +39,11 @@ src/scanner.py — Main monitoring file.
 requirements.txt — List of libraries.
 
 config.py — Configuration data.
+
 ⚠️ Security
 Never publicly share files containing actual API keys or tokens. Use this bot strictly for educational purposes.
+
+## ☕ Support the Project
+If you found this tool useful, you can support the project's development:
+- **Solana:**8RpjaJQmCrRvKHMXA5ak4CrrLNJnJionwxMfTRG8YAS
+- 
