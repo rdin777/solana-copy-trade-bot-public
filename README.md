@@ -1,7 +1,20 @@
-HTML
-<div align="right">
-  <img src="437.PNG" alt="wallet" width="300">
-</div>
+*If this research helped you, please consider giving it a ⭐ Star.*
+
+## 🚀 Stay Updated
+Found this research useful?
+* **Star ⭐** this repo to keep track of it.
+* **Follow me** on GitHub for more DeFi security research.
+* **Fork** it if you want to run your own experiments.
+
+### ☕ Support the Research
+If you appreciate the work and want to support further security research:
+
+<img src="456.PNG" alt="Donate QR" width="200"/>
+
+**Wallet Address (ETH/EVM):**0xBDDD7973D0DE27B715A4A5cbdb87d0DF78757b3A 
+
+<img src="465.PNG" alt="Donate QR" width="200"/>
+**Solana:**8RpjaJQmCrRvKHMXA5ak4CrrLNJnJionwxMfTRG8YAS
 
 Solana Copy Trade Monitor
 A simple and effective tool for tracking large-scale transactions across a specified list of wallets on the Solana network in real time.
@@ -48,7 +61,4 @@ config.py — Configuration data.
 ⚠️ Security
 Never publicly share files containing actual API keys or tokens. Use this bot strictly for educational purposes.
 
-## ☕ Support the Project
-If you found this tool useful, you can support the project's development:
-- **Solana:**8RpjaJQmCrRvKHMXA5ak4CrrLNJnJionwxMfTRG8YAS
-- 
+
